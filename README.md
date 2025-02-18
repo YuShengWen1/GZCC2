@@ -14,3 +14,6 @@
 
 ## 环境配置
 jdk 1.8
+
+## 项目截图
+![image](https://github.com/user-attachments/assets/966b18ae-6171-4e0c-95be-94f359eaaf9f)

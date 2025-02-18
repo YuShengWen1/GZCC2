@@ -1,33 +1,16 @@
-# dm-学生宿舍管理系统
+# 学生宿舍管理系统
 
 ## 介绍
-
-学生宿舍管理系统
+最终的项目找不到了，此项目为初始版本，存在一些问题，过段时间更新最新版
 
 ## 架构说明
+* Spring Boot Web
+* SpringMVC
+* Bootstrap 4
+* Ajax
+* MySQL
+*JQuery
+*gijgo
 
-Spring Boot Web
-
-Spring Boot Data Jpa
-
-Spring Boot Data Rest
-
-SpringMVC
-
-Bootstrap 4
-
-Ajax
-
-MySQL
-
-hikariCP
-
-JQuery
-
-gijgo
-
-font-awesome
-
-bootstrap-table
-
-sweetalert
+## 环境配置
+jdk 1.8
